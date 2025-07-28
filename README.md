@@ -1,0 +1,1 @@
+A simple and interactive Shopping List application built using Python's Tkinter library. This project helps users maintain a shopping list, save/load it locally, and search listed items directly on popular e-commerce websites.
